@@ -13,3 +13,6 @@ This project aims at generating pictures according to the text prompt or to the 
 - Have fun using simple UI!
 
 ## You can see the examples of generation in this repository too.
+
+# Note!
+Mind that the speed of generation depends on your computer, its graphics processor. The quality and latency can vary on different machines.
