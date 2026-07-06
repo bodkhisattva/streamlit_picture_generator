@@ -13,6 +13,8 @@ This project aims at generating pictures according to the text prompt or to the 
 - Have fun using simple UI!
 
 ## You can see the examples of generation in this repository too.
+<img width="512" height="512" alt="cheese with guinea pigs in it _20" src="https://github.com/user-attachments/assets/b400b0a0-63c6-468d-b1c3-d0b476b6122e" />
+
 
 # Note!
 Mind that the speed of generation depends on your computer, its graphics processor. The quality and latency can vary on different machines.
