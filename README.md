@@ -12,9 +12,11 @@ This project aims at generating pictures according to the text prompt or to the 
 - A localhost page will automatically open in your browser. The port is 8001 or it can automatically reach another port if 8001 is taken.
 - Have fun using simple UI!
 
-## You can see the examples of generation in this repository too.
+## You can see the examples of generation below.
 <img width="512" height="512" alt="cheese with guinea pigs in it _20" src="https://github.com/user-attachments/assets/b400b0a0-63c6-468d-b1c3-d0b476b6122e" />
-
+This one was a Text-to-Image generation with the prompt "Cheese with guinea pigs in it". The hyperparameters remained untouched here.
+<img width="512" height="512" alt="generated_image (1)" src="https://github.com/user-attachments/assets/57a5d6e9-73b8-4892-a64a-89b92a38c7b0" />
+This one was an Image-to-Image generation with the prompt "Generate this flower with eyes on it" with guidance_scale at approximately 9. As you see, the model did its best to make the picture precise but hallucinated a bit. You can always choose a more coplex model. 
 
 # Note!
 Mind that the speed of generation depends on your computer, its graphics processor. The quality and latency can vary on different machines.
